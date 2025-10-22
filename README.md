@@ -4,7 +4,7 @@ This repository contains the dataset used in the paper **"Detection of Vulnerabi
 
 ## Overview
 
-The dataset includes various Rust code samples, both vulnerable and non-vulnerable, used to train and evaluate the performance of large language models (LLMs) in detecting security vulnerabilities. 
+The dataset includes various Rust code samples, both vulnerable and non-vulnerable.
 
 ## Structure
 
